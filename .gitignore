@@ -19,3 +19,29 @@ debug_bundle_*.txt
 # APKs
 *.apk
 *.aab
+# Gradle / Android
+.gradle/
+build/
+*/build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+
+# Android signing
+*.jks
+*.keystore
+keystore.properties
+
+# Logs / exports
+*.log
+spp_log_*.txt
+debug_bundle_*.txt
+
+# Release artifacts
+*.apk
+*.aab
+
+# AI / local agent workspaces
+.claude/
+.agents/
