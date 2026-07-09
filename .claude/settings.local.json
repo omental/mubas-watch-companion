@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./gradlew compileDebugKotlin --console=plain)",
+      "Bash(./gradlew lintDebug --console=plain)",
+      "Bash(./gradlew assembleDebug --console=plain)",
+      "Bash(./gradlew lintDebug assembleDebug --console=plain)",
+      "Bash(./gradlew assembleDebug lintDebug --console=plain)",
+      "Bash(xargs ls -la)",
+      "Bash(./gradlew.bat assembleDebug --console=plain)",
+      "Bash(./gradlew.bat lintDebug --console=plain)"
+    ]
+  }
+}
