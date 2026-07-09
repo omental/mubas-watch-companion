@@ -147,7 +147,7 @@ private const val STRONG_SIGNAL_THRESHOLD_DBM = -75
 private const val SPP_DURATION_TICK_MS = 1000L
 private const val KC10_NAME = "KC10"
 private const val KC10_ADDRESS = "2A:F1:A0:F3:13:03"
-private const val APP_TITLE = "Muba's Watch Companion"
+private const val APP_TITLE = "Muba’s Watch Companion"
 
 private val PremiumBackground = Color(0xFF050711)
 private val PremiumCard = Color(0xE6131A2A)
