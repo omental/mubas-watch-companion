@@ -4,14 +4,14 @@ Open-source Android companion app for KC10 / C7S / WiiWatch2-compatible smartwat
 
 Muba’s Watch Companion is an independent interoperability and research app focused on a clean, usable Android companion experience for watches that speak the confirmed KC10 Classic Bluetooth protocol.
 
+
 ## Screenshots
 
-Screenshots will be added here before the first tagged release.
-
-<!--
-![Overview](docs/screenshots/overview.png)
-![Health](docs/screenshots/health.png)
-![Device](docs/screenshots/device.png)
+<p align="center">
+  <img src="docs/screenshots/Front.png" width="260" alt="Muba's Watch Companion overview screen" />
+  <img src="docs/screenshots/health.png" width="260" alt="Muba's Watch Companion health screen" />
+  <img src="docs/screenshots/Device.png" width="260" alt="Muba's Watch Companion device screen" />
+</p>
 -->
 
 ## Current Status
